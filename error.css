@@ -1,8 +1,10 @@
 .img {
-	left: 17%;
+	left: 13%;
 	margin-top:5%;
 }
 .text {
 	margin-top: 7%;
-	margin-left: 17%;
+	margin-left: 13%;
+	font-family: Arial, sans-serif;
+	font-size: 25pX;
 }
